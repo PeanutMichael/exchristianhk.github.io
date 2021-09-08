@@ -5,6 +5,7 @@
 - [（清）天下第一傷心人：《辟邪紀實》](bixie.md)
 - [中國近代反基督教宣言](declaration.md)
 - [（民）朱執信：《耶穌是甚麼東西》](zhu.md)
+- [（明）藕益智旭：《辟邪集》](ou.md)
 
 You can use the [editor on GitHub](https://github.com/PeanutMichael/exchristianhk.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
