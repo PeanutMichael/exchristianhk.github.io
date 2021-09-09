@@ -26,24 +26,25 @@
 
 ## 外國
 
-- [（美國）戴洛：為宗教和信仰自由一辯](darrow.md)
+- [塞爾蘇斯（Celsus）：反基督第一人](celsus.md)
 - [伽利略：地球在轉動](galileo.md)
 - [愛因斯坦：三篇闡述宗教觀的文章](einstein.md)
+- [（美國）戴洛：為宗教和信仰自由一辯](darrow.md)
 - [馬克思：《黑格爾法哲學批判》導言](marx.md)
-- [塞爾蘇斯（Celsus）：反基督第一人](celsus.md)
+- [羅素：《宗教與科學》](russell.md)
+- [霍金「宇宙的起源」講座](hawking.md)
+- [霍金大見解：留給世人的十個大哉問與解答](bigquestions.md)
+- [理查德．道金斯談進化和宗教](dawkins.md)
+- [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md)
 
 ## 現代
 
 - [方舟子：錯漏百出的聖經](fang.md)
-- [霍金「宇宙的起源」講座](hawking.md)
-- [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md)
-- [理查德．道金斯談進化和宗教](dawkins.md)
 - [劉曉波：基督教歷史上的迫害異端](liu.md)
 - [鄧紹斌（斌仔）：為甚麼我不是基督徒](deng.md)
 - [李天命：耶教「33教謬」](li.md)
-- [霍金大見解：留給世人的十個大哉問與解答](bigquestions.md)
 
 
-## 教內
+## 經文
 
 - [（唐）大秦景教流行中國碑頌](assyrian.md)
