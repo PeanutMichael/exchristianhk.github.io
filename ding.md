@@ -26,7 +26,8 @@
   <tr><td rowspan="2">（十）就我對於天象之觀念</td><td>星占學</td></tr>
   <tr><td>天文學</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="2">（十一）就我對於物種之由來</td><td>上帝造種論</td></tr>
   <tr><td>天演論</td></tr>
@@ -44,7 +45,8 @@
   <tr><td rowspan="2">（十二）就我與我之貿易關係</td><td>自由貿易</td></tr>
   <tr><td>保護貿易</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="2">（十三）就我與我之知識起源</td><td>感覺主義</td></tr>
   <tr><td>範疇主義</td></tr>
@@ -172,7 +174,8 @@
   <tr><td rowspan="2">（一）就我與我之親族之關係</td><td>大家族主義</td></tr>
   <tr><td>小家族主義</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="5">（二）就我與我之異性之關係</td><td>男尊女卑</td></tr>
   <tr><td>男女平等</td></tr>
@@ -180,37 +183,44 @@
   <tr><td>自由婚姻</td></tr>
   <tr><td>專制婚姻</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="2">（三）就我與我之財產之關係</td><td>私有財產制</td></tr>
   <tr><td>公有財產制</td></tr>
 </table>
-　	
+  
+  
 <table>
   <tr><td rowspan="2">（四）就我對於社會制度之激漸態度</td><td>守舊主義</td></tr>
   <tr><td>維新主義</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="2">（五）就我在內之心靈與在外之物質之關係</td><td>物質文明</td></tr>
   <tr><td>精神文明</td></tr>
 </table>
-　	
+  
+  
 <table>
   <tr><td rowspan="2">（六）就我與我所屬之全體之關係</td><td>個人主義</td></tr>
   <tr><td>社會主義（一名互助主義）</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="2">（七）就我與他總體之關係</td><td>為我主義</td></tr>
   <tr><td>利他主義</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="2">（八）就我對於世界之希望</td><td>悲觀主義</td></tr>
   <tr><td>樂觀主義</td></tr>
 </table>
-　
+  
+  
 <table>
   <tr><td rowspan="8">（九） 就我對於世界背後有無造物主之信仰</td><td>有神論</td></tr>
   <tr><td>無神論</td></tr>
