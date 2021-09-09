@@ -33,5 +33,9 @@
 
 - [方舟子：錯漏百出的聖經](fang.md)
 - [霍金「宇宙的起源」講座](hawking.md)
+- [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md)
+
+
+## 教內
 
 - [（唐）大秦景教流行中國碑頌](assyrian.md)
