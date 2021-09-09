@@ -34,6 +34,7 @@
 - [方舟子：錯漏百出的聖經](fang.md)
 - [霍金「宇宙的起源」講座](hawking.md)
 - [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md)
+- [理查德．道金斯談進化和宗教](dawkins.md)
 
 
 ## 教內
