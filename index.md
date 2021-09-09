@@ -25,16 +25,16 @@
 
 ## 外國
 
-- [塞爾蘇斯（Celsus）：反基督第一人](celsus.md)
-- [伽利略：地球在轉動](galileo.md)
-- [愛因斯坦：三篇闡述宗教觀的文章](einstein.md)
-- [（美國）戴洛：為宗教和信仰自由一辯](darrow.md)
-- [馬克思：《黑格爾法哲學批判》導言](marx.md)
-- [羅素：《宗教與科學》](russell.md)
-- [霍金「宇宙的起源」講座](hawking.md)
-- [霍金大見解：留給世人的十個大哉問與解答](bigquestions.md)
-- [理查德．道金斯談進化和宗教](dawkins.md)
-- [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md)
+- [塞爾蘇斯（Celsus）：反基督第一人](celsus.md) (178)
+- [伽利略：地球在轉動](galileo.md) (1632)
+- [馬克思：《黑格爾法哲學批判》導言](marx.md) (1843)
+- [（美國）戴洛：為宗教和信仰自由一辯](darrow.md) (1925)
+- [愛因斯坦：三篇闡述宗教觀的文章](einstein.md) (1930,1940)
+- [羅素：《宗教與科學》](russell.md) (1935)
+- [理查德．道金斯談進化和宗教](dawkins.md) (2005)
+- [霍金「宇宙的起源」講座](hawking.md) (2006)
+- [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md) (2007)
+- [霍金大見解：留給世人的十個大哉問與解答](bigquestions.md) (2019)
 
 ## 現代
 
