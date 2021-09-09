@@ -37,6 +37,7 @@
 - [網絡電影 Zeitgeist: The Movie 2007（時代精神第一部）中文字幕](zeitgeist.md)
 - [理查德．道金斯談進化和宗教](dawkins.md)
 - [劉曉波：基督教歷史上的迫害異端](liu.md)
+- [鄧紹斌（斌仔）：為甚麼我不是基督徒](deng.md)
 
 
 ## 教內
