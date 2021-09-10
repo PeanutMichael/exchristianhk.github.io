@@ -128,4 +128,4 @@
 
 *英文全文見[美國國家地理學會連結](http://www.nationalgeographic.com/lostgospel/_pdf/GospelofJudas.pdf)*
 
-*其他資料見[維基百科：猶大福音](https://zh.wikipedia.org/zh-hant/猶大福音)
+*其他資料見[維基百科：猶大福音](https://zh.wikipedia.org/zh-hant/猶大福音)*
