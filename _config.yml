@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: 離教文庫
 description: 關於基督宗教的經典文獻
+sitemap:
+  path: sitemap.xml
