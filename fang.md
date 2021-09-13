@@ -688,4 +688,4 @@
 
 現在就請各位根據這些證詞斷定耶穌復活的可信程度。
 
-*出處：http://www.xys.org/fang/doc/religion/bible.txt*
+*出處：<http://www.xys.org/fang/doc/religion/bible.txt>*
