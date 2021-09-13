@@ -128,4 +128,4 @@
 
 *訪問：Gordy Slack*
 
-*英文原文：http://www.salon.com/2005/04/30/dawkins/*
+*英文原文：<http://www.salon.com/2005/04/30/dawkins/>*
