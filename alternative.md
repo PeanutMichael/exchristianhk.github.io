@@ -1,6 +1,6 @@
 # 關於基督教的另類書籍
 
-*（來自https://www.horace.org/christianlibrary/）*
+*（來自<https://www.horace.org/christianlibrary/>）*
 
 問：有沒有書籍對基督教持有另類觀點?
 
