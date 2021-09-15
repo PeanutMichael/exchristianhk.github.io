@@ -14,6 +14,7 @@
     {% include head-custom.html %}
     <style>
       .toc {padding:1.5rem;background-color:#f3f6fa;border:solid 1px #dce6f0;border-radius:.3rem}
+      .toc-title {border-bottom: 1px solid #dce6f0;}
     </style>
   </head>
   <body>
@@ -42,7 +43,7 @@
 
     <main id="content" class="main-content" role="main">
 <div class="toc">
-<h2>目錄</h2>
+<h2 class="toc-title">目錄</h2>
       {% include toc.html html=content %}
 </div>
       {{ content }}
