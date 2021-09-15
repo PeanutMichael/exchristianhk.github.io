@@ -2,4 +2,4 @@
 
 = lib.exchristian.hk
 
-A library of Christian-related literatures.  Not the pro ones.
+A collection of unChristian-related books & literatures.
