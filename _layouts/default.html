@@ -12,7 +12,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     {% include head-custom.html %}
-    .5rem;background-color:#f3f6fa;border:solid 1px #dce6f0;border-radius:.3rem}.toc .toc-box .toc-title
+    <style>
+      .toc {padding:1.5rem;background-color:#f3f6fa;border:solid 1px #dce6f0;border-radius:.3rem}
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -39,7 +41,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-<div class="btn">
+<div class="toc">
 <h2>目錄</h2>
       {% include toc.html html=content %}
 </div>
