@@ -8,4 +8,4 @@
 
 《非宗教論》收錄了當時不少著名學者、思想家、教育家等反基督文章，對「非基督教運動」的發展有重要影響，極具參考價值。
 
-[:eyes: 書籍連結](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9900013406)
+[:link: 書籍連結](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9900013406)
