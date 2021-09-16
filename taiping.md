@@ -205,11 +205,11 @@
 
 ## 《天條書》
 
-[:arrows_double_downwards: 《天條書》PDF下載](天條書.pdf)
+[:arrow_double_down: 《天條書》PDF下載](天條書.pdf)
 
 ## 《太平天日》
 
-[:arrows_double_downwards: 《太平天日》PDF下載](太平天日.pdf)
+[:arrow_double_down: 《太平天日》PDF下載](太平天日.pdf)
 
 此書　詔明于戊申年冬，今於天父天兄天王太平天國壬戌十二年欽遵旨准刷印銅板頒行。
 
