@@ -120,6 +120,6 @@ Mithra，波斯的太陽神，由一處女於12月25日所生。他有過12個�
 
 更深一層，在宗教的意識中，神話對於人是引導和煽動的故事。它的焦點不是在於故事與現實的關係，而在於它起的作用。一個故事不會起任何影響，如果它沒有被某個地區或國家認為是真實的話。對於某些對一個神聖的故事的真實性提出問題的沒有品味的人來講，討論不會是一個信仰的守護者不會與他們進行討論。他們不予理會或譴責他們作為褻瀆者。你是錯誤，冒瀆和有罪的，如果你提出，暗示或幫助他人去得出一個美國政府殺死3000個市民的結論。
 
-*電影官網：<https://zeitgeistmovie.com/>
+*電影官網：<https://zeitgeistmovie.com/>*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OrHeg77LF4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
