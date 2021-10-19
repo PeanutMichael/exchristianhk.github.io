@@ -63,7 +63,7 @@
 
 這個答案，來自於一個人的洞察，他也許是有史以來最了不起的科學家。他就是愛因斯坦。我很遺憾，自己沒有機會和他碰面，因為他過世時，我只有十三歲。
 
-愛因斯坦理解到一件相當特殊的事情：兩樣構成宇宙的主要材料，質量與能量，基本上是同一樣東西，你可以把它想成是一枚銅板的兩面。他最著名的方程式 E = mc2基本上就是說：可以把質量想成是某種形式的能量，反之亦然。所以，現在構成宇宙的材料，不再是三樣，而是只有兩樣：能量與空間。
+愛因斯坦理解到一件相當特殊的事情：兩樣構成宇宙的主要材料，質量與能量，基本上是同一樣東西，你可以把它想成是一枚銅板的兩面。他最著名的方程式 E = mc<sup>2</sup>基本上就是說：可以把質量想成是某種形式的能量，反之亦然。所以，現在構成宇宙的材料，不再是三樣，而是只有兩樣：能量與空間。
 
 那麼，所有這些能量與空間，又是從哪裡來的呢？經過數十年的研究，科學家終於找到答案了：空間與能量是在一個我們如今稱為大霹靂的事件中，自發創生出來的。
 
@@ -157,7 +157,7 @@ The second thing you need is energy.  Even if you’ve never thought about it, w
 
 So we have matter and we have energy.  The third thing we need to build a universe is space.  Lots of space.  You can call the universe many things – awesome, beautiful, violent – but one thing you can’t call it is cramped.  Wherever we look we see space, more space and even more space.  Stretching in all directions.  It’s enough to make your head spin.  So where could all this matter, energy and space come from? We had no idea until the twentieth century.
 
-The answer came from the insights of one man, probably the most remarkable scientist who has ever lived.  His name was Albert Einstein.  Sadly, I never got to meet him, since I was only thirteen when he died.  Einstein realized something quite extraordinary: that two of the main ingredients needed to make the universe – mass and energy – are basically the same thing, two sides of the same coin if you like.  His famous equation, E=mc2 simply mean that mass can be thought of as a kind of energy, and vice versa.  So instead of three ingredients, we can now say that the universe has just two: energy and space.  So where did all this energy and space come from?  The answer was found after decades of work by scientists: space and time were spontaneously invented in an event we now called the Big Bang.
+The answer came from the insights of one man, probably the most remarkable scientist who has ever lived.  His name was Albert Einstein.  Sadly, I never got to meet him, since I was only thirteen when he died.  Einstein realized something quite extraordinary: that two of the main ingredients needed to make the universe – mass and energy – are basically the same thing, two sides of the same coin if you like.  His famous equation, E=mc<sup>2</sup> simply mean that mass can be thought of as a kind of energy, and vice versa.  So instead of three ingredients, we can now say that the universe has just two: energy and space.  So where did all this energy and space come from?  The answer was found after decades of work by scientists: space and time were spontaneously invented in an event we now called the Big Bang.
 
 At the moment of the Big Bang, an entire universe came into existence, and with it, space.  It all inflated, just like a balloon being blow up. So where did all this energy and space come from? How does an entire universe full of energy, the awesome vastness of space and everything in it, simply appear out of nothing?
 
