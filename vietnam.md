@@ -8,6 +8,8 @@
 
 > 你們在我的國家裡傳播什麼的道義？你們教我的人民只能娶一個老婆，但是我要他們有多妻多妾才能生出很多盡忠於我的民眾。從今天起，你們不得再繼續傳播那個教道，如果不順從這個命令，我會禁止你們作我不喜歡的事情，以及砍掉你們的頭。
 
+## 1628年禁令
+
 1628年，安南鄭主正式下令禁教，是為安南王朝第一次正式禁教敕令：
 
 > 我們，安南王之主，知道相當地清楚西洋道士們來我們國境，至今仍未傳播那些敗壞的邪道。但是無人可保證未來他們會傳播什麼教義或存有什麼的陰謀。因此，從今天起，我們禁止我國的全體民眾，不得再跟他們有任何的來往或聽他們說教，否則你們一定被處死。
@@ -15,6 +17,8 @@
 （Alexandre de Rhodes, *Historie du royaume de Tunquin, et des grands progrez que la prédication de lÉvangile y a faitsen la conversion des infidelles  .Depuisl'année 1627 jusques à l'année 1646.* Composée en latin par le R. P. Alexandre de Rhodes, ... et traduite en français par le R. P. Henry Albi,... pp.192, 211）[PDF, source gallica.bnf.fr / Bibliothèque nationale de France]（見：<http://www.rsd.fju.edu.tw/images/uploads/FJRS/32-08.pdf>）
 
 傳教士持續無視當地禁教法令，繼續招攬信徒，領導者亦持續下令禁教。
+
+## 1663年禁令
 
 北越統治者鄭柞於黎玄宗景治元年（1663）下令禁止基督教：
 
@@ -46,6 +50,8 @@
 ![1663年禁教令](vietnam4.jpg "1663年禁教令")  
 載《欽定越史通鑑綱目正編》*([圖片來源](https://lib.nomfoundation.org/collection/1/volume/269/page/5))*
 
+## 1696年禁令
+
 正和十七年（1696），黎朝下達禁教敕令。
 
 > 秋七月，申禁爺蘇左道。
@@ -54,6 +60,8 @@
 
 ![1696年禁教令](vietnam5.jpg "1696年禁教令")  
 載《欽定越史通鑑綱目正編》*([圖片來源](https://lib.nomfoundation.org/collection/1/volume/269/page/76))*
+
+## 1712年禁令
 
 永盛八年（1712），黎朝再下達禁令。
 
@@ -64,6 +72,8 @@
 ![1712年禁教令](vietnam6.jpg "1712年禁教令")  
 ![1712禁教令](vietnam7.jpg "1712年禁教令")  
 載《欽定越史通鑑綱目正編》*([圖片來源](https://lib.nomfoundation.org/collection/1/volume/269/page/103))*
+
+## 1755年禁令
 
 景興十六年（1755），黎朝顯宗亦頒布了禁教令。
 
