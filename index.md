@@ -28,6 +28,7 @@
 - [中國近代反基督教宣言](declaration.md)
 - [關於宗教自由的相關法規](law.md)
 - [關於基督教的另類書籍](alternative.md)
+- [反洋教書文揭帖選](poster.md)
 
 ## 外國
 
