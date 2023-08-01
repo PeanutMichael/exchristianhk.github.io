@@ -104,4 +104,4 @@
 
 謝謝各位。
 
-*英文原文：http://www.hawking.org.uk/the-origin-of-the-universe.html*
+*英文原文：[https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe)*
